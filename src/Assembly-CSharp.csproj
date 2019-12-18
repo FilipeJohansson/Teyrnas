@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8FA61AA3-0E43-6BC3-5315-F62C32D265ED}</ProjectGuid>
+    <ProjectGuid>{4CFFDA30-0E63-039E-0DCA-DAC117CE2649}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,7 +64,6 @@
     <Compile Include="Assets\2D SpritePack\Demo\Scripts\Player.cs" />
     <Compile Include="Assets\2D SpritePack\Demo\Scripts\Portal.cs" />
     <Compile Include="Assets\2D SpritePack\Demo\Scripts\RestartLevel.cs" />
-    <Compile Include="Assets\2D SpritePack\Demo\Scripts\Saw.cs" />
     <Compile Include="Assets\FarlandSkies\Demo\Scripts\Player\FPSWalkerEnhanced.cs" />
     <Compile Include="Assets\FarlandSkies\Demo\Scripts\Player\SmoothMouseLook.cs" />
     <Compile Include="Assets\FarlandSkies\Demo\Scripts\Skybox\SkyboxChanger.cs" />
@@ -115,25 +114,25 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <Reference Include="Cinemachine">
-      <HintPath>C:/Users/filip/Google Drive/Faculdade/Projeto Integrado (1)/Projeto/Jogo/ProjetoIntegrado/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+      <HintPath>C:/Users/filip/Documents/Unity Projetcs/Teyrnas/Teyrnas/src/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/filip/Google Drive/Faculdade/Projeto Integrado (1)/Projeto/Jogo/ProjetoIntegrado/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/filip/Documents/Unity Projetcs/Teyrnas/Teyrnas/src/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/filip/Google Drive/Faculdade/Projeto Integrado (1)/Projeto/Jogo/ProjetoIntegrado/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/filip/Documents/Unity Projetcs/Teyrnas/Teyrnas/src/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/filip/Google Drive/Faculdade/Projeto Integrado (1)/Projeto/Jogo/ProjetoIntegrado/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/filip/Documents/Unity Projetcs/Teyrnas/Teyrnas/src/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>C:/Users/filip/Google Drive/Faculdade/Projeto Integrado (1)/Projeto/Jogo/ProjetoIntegrado/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+      <HintPath>C:/Users/filip/Documents/Unity Projetcs/Teyrnas/Teyrnas/src/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/filip/Google Drive/Faculdade/Projeto Integrado (1)/Projeto/Jogo/ProjetoIntegrado/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/filip/Documents/Unity Projetcs/Teyrnas/Teyrnas/src/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/filip/Google Drive/Faculdade/Projeto Integrado (1)/Projeto/Jogo/ProjetoIntegrado/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/filip/Documents/Unity Projetcs/Teyrnas/Teyrnas/src/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -337,13 +336,13 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/filip/Google Drive/Faculdade/Projeto Integrado (1)/Projeto/Jogo/ProjetoIntegrado/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/filip/Documents/Unity Projetcs/Teyrnas/Teyrnas/src/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/filip/Google Drive/Faculdade/Projeto Integrado (1)/Projeto/Jogo/ProjetoIntegrado/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/filip/Documents/Unity Projetcs/Teyrnas/Teyrnas/src/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/filip/Google Drive/Faculdade/Projeto Integrado (1)/Projeto/Jogo/ProjetoIntegrado/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/filip/Documents/Unity Projetcs/Teyrnas/Teyrnas/src/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
